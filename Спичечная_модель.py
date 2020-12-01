@@ -12,7 +12,4 @@ in = 3
 
 n = int(input())
 
-if (n == 1):
-    print(12)
-else:
-    print(12 + 8*(n-1))
+print(4*(2*n+1))
